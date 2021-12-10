@@ -1,0 +1,11 @@
+package com.simplilearn.thread;
+
+public class WaitSample {
+
+	private static Object obj= new Object();
+	
+	public static void main(String[] args) {
+		
+		System.out.println(Thread.currentThread());
+	}
+}

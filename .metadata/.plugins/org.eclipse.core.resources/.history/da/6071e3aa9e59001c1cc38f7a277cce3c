@@ -1,0 +1,23 @@
+package com.simplilearn.interface1;
+
+public class Building implements Plan{
+
+	@Override
+	public void groudFloor() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void firstFloor() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void secondFloor() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

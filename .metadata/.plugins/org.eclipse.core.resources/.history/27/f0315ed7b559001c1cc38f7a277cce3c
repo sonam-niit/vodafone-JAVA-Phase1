@@ -1,0 +1,5 @@
+package com.simplilearn.serialization;
+
+public class Student {
+
+}

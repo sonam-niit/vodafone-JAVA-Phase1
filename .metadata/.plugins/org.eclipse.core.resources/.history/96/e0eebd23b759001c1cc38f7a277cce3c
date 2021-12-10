@@ -1,0 +1,15 @@
+package com.simplilearn.sync;
+
+public class ThreadSend implements Runnable{
+
+	private String msg;
+	Sender sender;
+	
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

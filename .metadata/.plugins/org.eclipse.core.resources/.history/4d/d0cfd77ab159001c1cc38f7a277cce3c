@@ -1,0 +1,16 @@
+package com.simplilearn.thread;
+
+public class ThreadDemo1 extends Thread{
+
+	public void run() {
+		System.out.println("Thread started");
+	}
+	
+	public static void main(String[] args) {
+		
+		ThreadDemo1 demo=new ThreadDemo1();
+		demo.start();
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.simplilearn.inner;
+
+public class RegularInnerClass {
+
+	private String userKey="XYZ";
+	
+	class Inner{
+		
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

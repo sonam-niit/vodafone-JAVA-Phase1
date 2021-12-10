@@ -1,0 +1,24 @@
+package com.simplilearn.regex;
+
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class RegexDemo2 {
+
+	public static void main(String[] args) {
+		
+		String string="^[A-Z]at";
+		Pattern pattern=Pattern.compile(string);
+		Scanner scanner=new Scanner(System.in);
+		
+		System.out.println("Enter any value ending with at");
+		
+		String input=scanner.next();
+		
+		Matcher m=pattern.matcher(input);
+		
+		System.out.println(m.matches());
+		
+	}
+}

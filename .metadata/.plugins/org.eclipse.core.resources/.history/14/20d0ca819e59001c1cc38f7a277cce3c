@@ -1,0 +1,8 @@
+package com.simplilearn.interface1;
+
+public interface Plan {
+
+	public void groudFloor();
+	public void firstFloor();
+	public void secondFloor();
+}

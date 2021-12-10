@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.simplilearn.sync.TheadSend&apos; to &apos;ThreadSend&apos;&#x0D;&#x0A;- Original project: &apos;Session-1&apos;&#x0D;&#x0A;- Original element: &apos;com.simplilearn.sync.TheadSend&apos;&#x0D;&#x0A;- Renamed element: &apos;com.simplilearn.sync.ThreadSend&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TheadSend&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.simplilearn.sync{TheadSend.java[TheadSend" matchStrategy="1" name="ThreadSend" qualified="false" references="true" similarDeclarations="false" stamp="1639140302359" textual="false" version="1.0"/>
+</session>
